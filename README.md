@@ -18,6 +18,7 @@ Este repositório é um espaço pessoal para o meu aprendizado. No entanto, se v
 
 Você pode me encontrar no GitHub como [azuospy](https://github.com/azuospy). Caso tenha qualquer dúvida ou queira discutir sobre computação, fique à vontade para entrar em contato!
 
+
 ---
 
 Obrigado por visitar meu repositório. Espero que as informações aqui sejam úteis para você também!
