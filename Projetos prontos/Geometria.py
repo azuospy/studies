@@ -119,7 +119,7 @@ def fazueli():
     print(" " * 3, "#" * 13) 
     print(" " * 3, "#" * 13) 
     p()
-    print("     Até programando você é esqueridista hein \n     FazuL agora...")
+    print("     Até programando você é esquerdista hein \n     FazuL agora...")
 
 limpar_tela()
 
