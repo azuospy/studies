@@ -1,0 +1,11 @@
+## Racunhos sem "porquê aparente"
+
+_O tempo não passa_
+**Quem passa somos nós**
+
+Horizontal rule:
+---
+# code block
+Poeta= "Poe" + "nós"
+print(Poeta)
+```
